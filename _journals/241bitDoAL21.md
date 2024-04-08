@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/1bitDoAL21
 date: 2024-1-3
 year: "2024"
-venue: "IEEE Transactions on Aerospace and Electronic Systems"
+venue: "IEEE Transactions on Aerospace and Electronic Systems,"
 city: 
 state: ""
 thumbnail: "1bitDoAL21.png"

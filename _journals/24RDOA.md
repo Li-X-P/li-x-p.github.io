@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RDOA.png"
 teaser : 
-authors: X. Y. Wang, <b> X. P. Li</b>, H. Huang, and H. C. So
+authors: X. Y. Wang, <b> X. P. Li</b>*, H. Huang, and H. C. So
 bibtex: 
 uri: RDOA.pdf
 arxiv: 

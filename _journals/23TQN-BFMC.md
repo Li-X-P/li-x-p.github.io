@@ -9,7 +9,7 @@ city:
 state: 
 thumbnail: "TQN-BFMC.png"
 teaser : 
-authors: "X. Y. Wang, <b> X. P. Li</b>* and H. C. So"
+authors: "X. Y. Wang, <b> X. P. Li</b>*, and H. C. So"
 bibtex: 
 uri: TQN-BFMC.pdf
 arxiv: 

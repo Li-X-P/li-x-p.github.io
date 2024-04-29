@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RSPFED.png"
 teaser : 
-authors: X. Y. Wang, <b> X. P. Li</b>, and H. C. So
+authors: X. Y. Wang, <b> X. P. Li</b>*, and H. C. So
 bibtex: 
 uri: RSPFED.pdf
 arxiv: 

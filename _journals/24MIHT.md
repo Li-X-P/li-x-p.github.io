@@ -1,5 +1,5 @@
 ---
-title: "Sparse recovery under nonnegative and sum-to-one constraints"
+title: "Sparse recovery under nonnegativity and sum-to-one constraints"
 collection: journals
 permalink: /publication/MIHT
 date: 2024-6-26

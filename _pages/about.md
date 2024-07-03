@@ -23,21 +23,35 @@ redirect_from:
       }
    </style>
 
-<style>
-  .award-list {
-    list-style: disc inside; /* 设置列表项目标记为黑点 */
-    padding-left: 20px; /* 设置左侧缩进 */
-  }
-  .award-item {
-    display: flex;
-    justify-content: space-between; /* 确保内容分布在左右两端 */
-    margin-bottom: 5px; /* 添加一些间隔 */
-  }
-  .title {
-    font-weight: bold;
-    margin-bottom: 10px; /* 标题和列表项之间的间隔 */
-  }
-</style>
+  <style>
+    .awards-list {
+      list-style: none; /* Remove default list style */
+      padding: 0; /* Remove default padding */
+      padding-left: 16px; /* Left indent approximately equivalent to 2 characters */
+    }
+    .award-item {
+      display: flex; /* Use Flexbox layout */
+      justify-content: space-between; /* Align content at both ends */
+      margin-bottom: 10px; /* Add some spacing between items */
+      position: relative; /* Set positioning context for pseudo-element */
+      padding-left: 20px; /* Ensure space for the solid dot */
+    }
+    .award-item::before {
+      content: "●"; /* Use black solid dot as prefix */
+      color: black; /* Set color to black */
+      position: absolute; /* Absolute positioning */
+      left: 0; /* Place the solid dot at the start of the item */
+      font-size: larger; /* Adjust the size of the solid dot */
+      margin-right: 10px; /* Right margin to add space between dot and text */
+    }
+    .date {
+      white-space: nowrap; /* Prevent date from wrapping */
+    }
+    .details {
+      text-align: left; /* Left-align the detailed text */
+      width: 80%; /* Limit the width of the detailed text */
+    }
+  </style>
   <style>
     .timeline {
       list-style: none; /* 移除默认的列表样式 */
@@ -98,20 +112,18 @@ Experiences
 Awards and Honors
 ----------
 <body>
-<div>
-  <ul class="award-list">
-    <li class="award-item"><span>* 深圳大学电子与信息工程学院“优秀班导师”</span><span>2023 - 2024</span></li>
-    <li class="award-item"><span>深圳市“鹏城孔雀计划”C类人才</span><span>2023</span></li>
-    <li class="award-item"><span>Research Tuition Scholarship, City University of Hong Kong</span><span>2022 - 2023</span></li>
-    <li class="award-item"><span>Outstanding Academic Performance Award, City University of Hong Kong</span><span>2021 - 2022</span></li>
-    <li class="award-item"><span>Research Tuition Scholarship, City University of Hong Kong</span><span>2021 - 2022</span></li>
-    <li class="award-item"><span>Outstanding Academic Performance Award, City University of Hong Kong</span><span>2020 - 2021</span></li>
-    <li class="award-item"><span>Research Tuition Scholarship, City University of Hong Kong</span><span>2020 - 2021</span></li>
-    <li class="award-item"><span>Ph.D. Research Scholarship, City University of Hong Kong</span><span>2019 - 2023</span></li>
-    <li class="award-item"><span>Graduate with Distinction, City University of Hong Kong</span><span>2018</span></li>
-    <li class="award-item"><span>Outstanding Undergraduate, Yanshan University</span><span>2015</span></li>
-  </ul>
-</div>
+<ul class="awards-list">
+  <li class="award-item"><div class="details">深圳大学电子与信息工程学院“优秀班导师”</div><div class="date">2023 - 2024</div></li>
+  <li class="award-item"><div class="details">深圳市“鹏城孔雀计划”C类人才</div><div class="date">2023</div></li>
+  <li class="award-item"><div class="details">Research Tuition Scholarship, City University of Hong Kong</div><div class="date">2022 - 2023</div></li>
+  <li class="award-item"><div class="details">Outstanding Academic Performance Award, City University of Hong Kong</div><div class="date">2021 - 2022</div></li>
+  <li class="award-item"><div class="details">Research Tuition Scholarship, City University of Hong Kong</div><div class="date">2021 - 2022</div></li>
+  <li class="award-item"><div class="details">Outstanding Academic Performance Award, City University of Hong Kong</div><div class="date">2020 - 2021</div></li>
+  <li class="award-item"><div class="details">Research Tuition Scholarship, City University of Hong Kong</div><div class="date">2020 - 2021</div></li>
+  <li class="award-item"><div class="details">Ph.D. Research Scholarship, City University of Hong Kong</div><div class="date">2019 - 2023</div></li>
+  <li class="award-item"><div class="details">Graduate with Distinction, City University of Hong Kong</div><div class="date">2018</div></li>
+  <li class="award-item"><div class="details">Outstanding Undergraduate, Yanshan University</div><div class="date">2015</div></li>
+</ul>
 </body>
 
 <script>

@@ -126,13 +126,20 @@ Awards and Honors
 </ul>
 </body>
 
+<style>
+#clustrmaps-widget {
+    width: 200px;
+    height: 200px;
+}
+</style>
 <script>
 var clustrmapsOptions = {
-    width: '200px',  // 设置宽度为200px
-    height: '200px'  // 设置高度为200px
+    width: '300px',
+    height: '300px'
 };
 </script>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ&cl=ffffff&w=a"></script>
+
 
 
 

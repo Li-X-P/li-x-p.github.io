@@ -55,6 +55,7 @@ Experiences
 
 Awards and Honors
 ----------
+* 深圳大学电子与信息工程学院“优秀班导师”, 2023 - 2024
 * 深圳市“鹏城孔雀计划”C类人才, 2023
 * Research Tuition Scholarship, City University of Hong Kong, 2022 - 2023
 * Outstanding Academic Performance Award, City University of Hong Kong, 2021 - 2022

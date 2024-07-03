@@ -70,9 +70,10 @@ Experiences
 * B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015     
   College of Information Engineering, Yanshan University, Qinhuangdao, China  
 
+Awards and Honors
+----------
 <body>
 <div>
-  <div class="title">Awards and Honors</div>
   <ul class="award-list">
     <li class="award-item"><span>深圳大学电子与信息工程学院“优秀班导师”</span><span>2023 - 2024</span></li>
     <li class="award-item"><span>深圳市“鹏城孔雀计划”C类人才</span><span>2023</span></li>

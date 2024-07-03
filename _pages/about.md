@@ -22,6 +22,23 @@ redirect_from:
         text-indent: 0; 
       }
    </style>
+
+  <style>
+    .award-list {
+      list-style: none; /* 移除列表标记 */
+      padding: 0; /* 移除内边距 */
+    }
+    .award-item {
+      display: flex;
+      justify-content: space-between; /* 确保内容分布在左右两端 */
+      margin-bottom: 5px; /* 添加一些间隔 */
+    }
+    .title {
+      font-weight: bold;
+      margin-bottom: 10px; /* 标题和列表项之间的间隔 */
+    }
+  </style>
+
 </head>
   
 <body>
@@ -53,18 +70,23 @@ Experiences
 * B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015     
   College of Information Engineering, Yanshan University, Qinhuangdao, China  
 
-Awards and Honors
-----------
-* 深圳大学电子与信息工程学院“优秀班导师”, 2023 - 2024
-* 深圳市“鹏城孔雀计划”C类人才, 2023
-* Research Tuition Scholarship, City University of Hong Kong, 2022 - 2023
-* Outstanding Academic Performance Award, City University of Hong Kong, 2021 - 2022
-* Research Tuition Scholarship, City University of Hong Kong, 2021 - 2022
-* Outstanding Academic Performance Award, City University of Hong Kong, 2020 - 2021
-* Research Tuition Scholarship, City University of Hong Kong, 2020 - 2021
-* Ph.D. Research Scholarship, City University of Hong Kong, 2019 - 2023
-* Graduate with Distinction, City University of Hong Kong, 2018
-* Outstanding Undergraduate, Yanshan University, 2015
+<body>
+<div>
+  <div class="title">Awards and Honors</div>
+  <ul class="award-list">
+    <li class="award-item"><span>深圳大学电子与信息工程学院“优秀班导师”</span><span>2023 - 2024</span></li>
+    <li class="award-item"><span>深圳市“鹏城孔雀计划”C类人才</span><span>2023</span></li>
+    <li class="award-item"><span>Research Tuition Scholarship, City University of Hong Kong</span><span>2022 - 2023</span></li>
+    <li class="award-item"><span>Outstanding Academic Performance Award, City University of Hong Kong</span><span>2021 - 2022</span></li>
+    <li class="award-item"><span>Research Tuition Scholarship, City University of Hong Kong</span><span>2021 - 2022</span></li>
+    <li class="award-item"><span>Outstanding Academic Performance Award, City University of Hong Kong</span><span>2020 - 2021</span></li>
+    <li class="award-item"><span>Research Tuition Scholarship, City University of Hong Kong</span><span>2020 - 2021</span></li>
+    <li class="award-item"><span>Ph.D. Research Scholarship, City University of Hong Kong</span><span>2019 - 2023</span></li>
+    <li class="award-item"><span>Graduate with Distinction, City University of Hong Kong</span><span>2018</span></li>
+    <li class="award-item"><span>Outstanding Undergraduate, Yanshan University</span><span>2015</span></li>
+  </ul>
+</div>
+</body>
 
 <script>
 var clustrmapsOptions = {

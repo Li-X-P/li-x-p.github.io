@@ -42,6 +42,7 @@ redirect_from:
   .timeline {
     list-style: none; /* 移除默认的列表样式 */
     padding: 0; /* 移除默认的内边距 */
+    padding-left: 16px; /* 左侧缩进大约相当于2个字符 */
   }
   .entry {
     display: flex; /* 使用Flexbox布局 */

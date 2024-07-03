@@ -38,7 +38,24 @@ redirect_from:
     margin-bottom: 10px; /* 标题和列表项之间的间隔 */
   }
 </style>
-
+<style>
+  .timeline {
+    list-style: none; /* 移除默认的列表样式 */
+    padding: 0; /* 移除默认的内边距 */
+  }
+  .entry {
+    display: flex; /* 使用Flexbox布局 */
+    justify-content: space-between; /* 使内容两端对齐 */
+    margin-bottom: 10px; /* 在条目之间添加一些间隔 */
+  }
+  .date {
+    white-space: nowrap; /* 防止日期折行 */
+  }
+  .details {
+    text-align: left; /* 左对齐详细信息 */
+    width: 80%; /* 限制详细信息的宽度 */
+  }
+</style>
 </head>
   
 <body>
@@ -53,22 +70,16 @@ His research interests include optimization methods, machine learning, sparse re
 
 Experiences
 ----------
-* Assistant Professor: May. 2023 - Present  
-  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China 
-* Postdoctoral Fellow: Nov. 2022 - May 2023   
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China   
-  Supervisor:  Prof. SO, Hing Cheung (IEEE Fellow)  
-* Ph.D degree: Sep. 2019 - Nov. 2022    
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    
-  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)    
-* Research Assistant: Sep. 2018 - Aug. 2019  
-  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China   
-  Supervisor: Prof. HUANG, Lei (IET Fellow, Distinguished Young Scholar)  
-* M.S degree with distinction: Sep. 2017 - Oct. 2018   
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    
-  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)  
-* B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015     
-  College of Information Engineering, Yanshan University, Qinhuangdao, China  
+<body>
+<ul class="timeline">
+  <li class="entry"><div class="details">Assistant Professor: <br>College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China</div><div class="date">May. 2023 - Present</div></li>
+  <li class="entry"><div class="details">Postdoctoral Fellow: <br>Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China <br>Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)</div><div class="date">Nov. 2022 - May 2023</div></li>
+  <li class="entry"><div class="details">Ph.D degree: <br>Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China <br>Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)</div><div class="date">Sep. 2019 - Nov. 2022</div></li>
+  <li class="entry"><div class="details">Research Assistant: <br>College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China <br>Supervisor: Prof. HUANG, Lei (IET Fellow, Distinguished Young Scholar)</div><div class="date">Sep. 2018 - Aug. 2019</div></li>
+  <li class="entry"><div class="details">M.S degree with distinction: <br>Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China <br>Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)</div><div class="date">Sep. 2017 - Oct. 2018</div></li>
+  <li class="entry"><div class="details">B.E degree as an outstanding graduate: <br>College of Information Engineering, Yanshan University, Qinhuangdao, China</div><div class="date">Sep. 2011 - Jul. 2015</div></li>
+</ul>
+</body>
 
 Awards and Honors
 ----------

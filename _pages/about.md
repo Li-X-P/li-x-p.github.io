@@ -57,6 +57,9 @@ redirect_from:
   }
 </style>
 </head>
+
+
+
   
 <body>
 <p class="indent">
@@ -86,7 +89,7 @@ Awards and Honors
 <body>
 <div>
   <ul class="award-list">
-    <li class="award-item"><span>深圳大学电子与信息工程学院“优秀班导师”</span><span>2023 - 2024</span></li>
+    <li class="award-item"><span>* 深圳大学电子与信息工程学院“优秀班导师”</span><span>2023 - 2024</span></li>
     <li class="award-item"><span>深圳市“鹏城孔雀计划”C类人才</span><span>2023</span></li>
     <li class="award-item"><span>Research Tuition Scholarship, City University of Hong Kong</span><span>2022 - 2023</span></li>
     <li class="award-item"><span>Outstanding Academic Performance Award, City University of Hong Kong</span><span>2021 - 2022</span></li>

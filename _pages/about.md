@@ -23,21 +23,21 @@ redirect_from:
       }
    </style>
 
-  <style>
-    .award-list {
-      list-style: none; /* 移除列表标记 */
-      padding: 0; /* 移除内边距 */
-    }
-    .award-item {
-      display: flex;
-      justify-content: space-between; /* 确保内容分布在左右两端 */
-      margin-bottom: 5px; /* 添加一些间隔 */
-    }
-    .title {
-      font-weight: bold;
-      margin-bottom: 10px; /* 标题和列表项之间的间隔 */
-    }
-  </style>
+<style>
+  .award-list {
+    list-style: disc inside; /* 设置列表项目标记为黑点 */
+    padding-left: 20px; /* 设置左侧缩进 */
+  }
+  .award-item {
+    display: flex;
+    justify-content: space-between; /* 确保内容分布在左右两端 */
+    margin-bottom: 5px; /* 添加一些间隔 */
+  }
+  .title {
+    font-weight: bold;
+    margin-bottom: 10px; /* 标题和列表项之间的间隔 */
+  }
+</style>
 
 </head>
   

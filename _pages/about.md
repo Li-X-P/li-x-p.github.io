@@ -52,7 +52,7 @@ redirect_from:
     padding-left: 10px; /* 确保有空间放置符号标识 */
   }
   .entry::before {
-    content: "*"; /* 在每个列表项前添加星号 */
+    content: "●";  /* 在每个列表项前添加星号 */
     position: absolute; /* 绝对定位 */
     left: 0; /* 将星号放在条目最左边 */
   }

@@ -48,6 +48,13 @@ redirect_from:
     display: flex; /* 使用Flexbox布局 */
     justify-content: space-between; /* 使内容两端对齐 */
     margin-bottom: 10px; /* 在条目之间添加一些间隔 */
+    position: relative; /* 为伪元素设置定位上下文 */
+    padding-left: 10px; /* 确保有空间放置符号标识 */
+  }
+  .entry::before {
+    content: "*"; /* 在每个列表项前添加星号 */
+    position: absolute; /* 绝对定位 */
+    left: 0; /* 将星号放在条目最左边 */
   }
   .date {
     white-space: nowrap; /* 防止日期折行 */

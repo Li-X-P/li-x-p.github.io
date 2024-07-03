@@ -127,7 +127,7 @@ Awards and Honors
 </body>
 
 <style>
-#clustrmaps-widget {
+jvectormap-tip {
     width: 200px;
     height: 200px;
 }

@@ -138,10 +138,7 @@ var clustrmapsOptions = {
     height: '300px'
 };
 </script>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ&cl=ffffff&w=a"></script>
-
-
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ'></script>
 
 
 

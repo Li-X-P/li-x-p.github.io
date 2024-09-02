@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "Shenzhen, China"
 ---
 
-Sem. A 2023/24
+Sem. A 2024/25, Sem. A 2023/24
 
 
 

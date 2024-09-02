@@ -2,7 +2,7 @@
 title: "Foundation of Optimization"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/FoundationofOptimization
+permalink: /teaching/foundationofOptimization
 venue: "Shenzhen University"
 date: 2024-09-01
 location: "Shenzhen, China"

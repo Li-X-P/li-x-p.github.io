@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/NumericalComputingMethods
 venue: "Shenzhen University"
-date: 2023-09-01
+date: 2024-09-01
 location: "Shenzhen, China"
 ---
 

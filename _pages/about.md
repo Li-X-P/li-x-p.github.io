@@ -100,7 +100,7 @@ Experiences
 ----------
 <body>
 <ul class="timeline">
-  <li class="entry"><div class="details">Associate Research Fellow <br>College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China</div><div class="date">Aug. 2024 - Present</div></li>
+  <li class="entry"><div class="details">Research Associate <br>College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China</div><div class="date">Aug. 2024 - Present</div></li>
   <li class="entry"><div class="details">Assistant Professor <br>College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China</div><div class="date">May 2023 - Present</div></li>
   <li class="entry"><div class="details">Postdoctoral Fellow <br>Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China <br>Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)</div><div class="date">Dec. 2022 - May 2023</div></li>
   <li class="entry"><div class="details">Ph.D. degree <br>Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China <br>Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)</div><div class="date">Sep. 2019 - Nov. 2022</div></li>

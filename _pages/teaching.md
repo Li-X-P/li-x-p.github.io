@@ -54,6 +54,7 @@ author_profile: true
 
 <!-- 第二部分：时间线展示 -->
 <section class="teaching-timeline">
+   <h2>比赛指导</h2>
   <ul class="timeline">
     <li class="entry">
       <div class="details">

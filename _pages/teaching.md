@@ -9,21 +9,21 @@ author_profile: true
 
 <!-- 第一部分：语言描述 -->
 <section class="teaching-description">
-  <h2>关于教学</h2>
-  <p>
-    欢迎来到我的教学页面！这里您可以找到我教授课程的相关信息以及教学资源。
-    我专注于 [具体学科或领域]，致力于为学生提供高质量的学习体验。
-  </p>
-  <p>
-    如果您有兴趣了解更多，欢迎随时联系我！
-  </p>
+  <h2>比赛指导</h2>
+<body>
+<ul class="timeline">
+  <li class="entry"><div class="details">第六届国际青年人工智能大赛百度Apollo星火自动驾驶主题赛，省一等 <br>负责人：王思琪、陈晓琳、褚宏亚；指导老师：李强、李晓鹏</li>
+  <li class="entry"><div class="details">第二十一届全国大学生信息安全与对抗技术竞赛-自动驾驶仿真赛项，省三等 <br>负责人：陈晓琳、王思琪、褚宏亚；指导老师：李强、李晓鹏 </li>
+</ul>
+</body>
+  
 </section>
 
 <hr>
 
 <!-- 第二部分：动态内容 -->
 <section class="teaching-content">
-  <h2>教学动态</h2>
+  <h2>课程</h2>
   {% for post in site.teaching reversed %}
     {% include archive-single.html %}
   {% endfor %}

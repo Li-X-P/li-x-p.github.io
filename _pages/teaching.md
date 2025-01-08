@@ -4,6 +4,79 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+<head>
+   <style>
+      .indent {
+        text-align: justify;
+        hyphens: auto;
+        text-indent: 2em; 
+      }
+      .no-indent {
+        text-align: justify;
+        hyphens: auto;
+        text-indent: 0; 
+      }
+   </style>
+
+  <style>
+    .awards-list {
+      list-style: none; /* Remove default list style */
+      padding: 0; /* Remove default padding */
+      padding-left: 16px; /* Left indent approximately equivalent to 2 characters */
+    }
+    .award-item {
+      display: flex; /* Use Flexbox layout */
+      justify-content: space-between; /* Align content at both ends */
+      margin-bottom: 10px; /* Add some spacing between items */
+      position: relative; /* Set positioning context for pseudo-element */
+      padding-left: 20px; /* Ensure space for the solid dot */
+    }
+    .award-item::before {
+      content: "●"; /* Use black solid dot as prefix */
+      color: black; /* Set color to black */
+      position: absolute; /* Absolute positioning */
+      left: 0; /* Place the solid dot at the start of the item */
+      font-size: larger; /* Adjust the size of the solid dot */
+      margin-right: 10px; /* Right margin to add space between dot and text */
+    }
+    .date {
+      white-space: nowrap; /* Prevent date from wrapping */
+    }
+    .details {
+      text-align: left; /* Left-align the detailed text */
+      width: 80%; /* Limit the width of the detailed text */
+    }
+  </style>
+  <style>
+    .timeline {
+      list-style: none; /* 移除默认的列表样式 */
+      padding: 0; /* 移除默认的内边距 */
+      padding-left: 16px; /* 左侧缩进大约相当于2个字符 */
+    }
+    .entry {
+      display: flex; /* 使用Flexbox布局 */
+      justify-content: space-between; /* 使内容两端对齐 */
+      margin-bottom: 10px; /* 在条目之间添加一些间隔 */
+      position: relative; /* 为伪元素设置定位上下文 */
+      padding-left: 20px; /* 确保有空间放置符号标识 */
+    }
+    .entry::before {
+      content: "●"; /* 使用黑色实心点作为前缀 */
+      color: black; /* 设置颜色为黑色 */
+      position: absolute; /* 绝对定位 */
+      left: 0; /* 将实心点放在条目最左边 */
+      font-size: larger; /* 调整实心点的大小 */
+      margin-right: 10px; /* 右边距，增加文本间隔 */
+    }
+    .date {
+      white-space: nowrap; /* 防止日期折行 */
+    }
+    .details {
+      text-align: left; /* 左对齐详细信息 */
+      width: 80%; /* 限制详细信息的宽度 */
+    }
+  </style>
+</head>
 
 {% include base_path %}
 

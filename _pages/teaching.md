@@ -19,35 +19,6 @@ author_profile: true
    </style>
 
   <style>
-    .awards-list {
-      list-style: none; /* Remove default list style */
-      padding: 0; /* Remove default padding */
-      padding-left: 16px; /* Left indent approximately equivalent to 2 characters */
-    }
-    .award-item {
-      display: flex; /* Use Flexbox layout */
-      justify-content: space-between; /* Align content at both ends */
-      margin-bottom: 10px; /* Add some spacing between items */
-      position: relative; /* Set positioning context for pseudo-element */
-      padding-left: 20px; /* Ensure space for the solid dot */
-    }
-    .award-item::before {
-      content: "●"; /* Use black solid dot as prefix */
-      color: black; /* Set color to black */
-      position: absolute; /* Absolute positioning */
-      left: 0; /* Place the solid dot at the start of the item */
-      font-size: larger; /* Adjust the size of the solid dot */
-      margin-right: 10px; /* Right margin to add space between dot and text */
-    }
-    .date {
-      white-space: nowrap; /* Prevent date from wrapping */
-    }
-    .details {
-      text-align: left; /* Left-align the detailed text */
-      width: 80%; /* Limit the width of the detailed text */
-    }
-  </style>
-  <style>
     .timeline {
       list-style: none; /* 移除默认的列表样式 */
       padding: 0; /* 移除默认的内边距 */
@@ -80,16 +51,23 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- 第一部分：语言描述 -->
-<section class="teaching-description">
-  <h2>比赛指导</h2>
-<body>
-<ul class="timeline">
-  <li class="entry"><div class="details">第六届国际青年人工智能大赛百度Apollo星火自动驾驶主题赛，省一等 <br>负责人：王思琪、陈晓琳、褚宏亚；指导老师：李强、李晓鹏</li>
-  <li class="entry"><div class="details">第二十一届全国大学生信息安全与对抗技术竞赛-自动驾驶仿真赛项，省三等 <br>负责人：陈晓琳、王思琪、褚宏亚；指导老师：李强、李晓鹏 </li>
-</ul>
-</body>
-  
+
+<!-- 第二部分：时间线展示 -->
+<section class="teaching-timeline">
+  <ul class="timeline">
+    <li class="entry">
+      <div class="details">
+        第六届国际青年人工智能大赛百度Apollo星火自动驾驶主题赛，省一等<br>
+        负责人：王思琪、陈晓琳、褚宏亚；指导老师：李强、李晓鹏
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        第二十一届全国大学生信息安全与对抗技术竞赛-自动驾驶仿真赛项，省三等<br>
+        负责人：陈晓琳、王思琪、褚宏亚；指导老师：李强、李晓鹏
+      </div>
+    </li>
+  </ul>
 </section>
 
 <hr>

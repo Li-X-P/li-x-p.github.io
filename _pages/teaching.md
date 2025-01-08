@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 {% include base_path %}
 
 <!-- 第一部分：语言描述 -->

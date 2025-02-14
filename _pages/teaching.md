@@ -58,6 +58,18 @@ author_profile: true
   <ul class="timeline">
     <li class="entry">
       <div class="details">
+        2024 APMCM亚太地区大学生数学建模竞赛，一等<br>
+        负责人：Feng Lin, Fangzhou Zhao, John He；指导老师：李晓鹏
+      </div>
+    </li>
+   <li class="entry">
+      <div class="details">
+        2024 APMCM亚太地区大学生数学建模竞赛，三等<br>
+        负责人：Shuo Lin, YaPeng Guo, Jiaheng Luo；指导老师：李晓鹏
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
         第六届国际青年人工智能大赛百度Apollo星火自动驾驶主题赛，省一等<br>
         负责人：王思琪、陈晓琳、褚宏亚；指导老师：李强、李晓鹏
       </div>

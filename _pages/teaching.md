@@ -59,13 +59,19 @@ author_profile: true
     <li class="entry">
       <div class="details">
         2024 APMCM亚太地区大学生数学建模竞赛，一等<br>
-        负责人：Feng Lin, Fangzhou Zhao, John He；指导老师：李晓鹏
+        负责人：Feng Lin, Fangzhou Zhao, John He；指导老师：Xiao-Peng Li
       </div>
     </li>
    <li class="entry">
       <div class="details">
         2024 APMCM亚太地区大学生数学建模竞赛，三等<br>
-        负责人：Shuo Lin, YaPeng Guo, Jiaheng Luo；指导老师：李晓鹏
+        负责人：Shuo Lin, YaPeng Guo, Jiaheng Luo；指导老师：Xiao-Peng Li
+      </div>
+    </li>
+   <li class="entry">
+      <div class="details">
+        2024 APMCM亚太地区大学生数学建模竞赛，三等<br>
+        负责人：Jincan Liu, Zhanyu, Tu, Jiabao Guo；指导老师：Xiao-Peng Li
       </div>
     </li>
     <li class="entry">

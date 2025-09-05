@@ -37,7 +37,8 @@ Ph.D. Students
 <table>
 <tr>
   <td>
-    <img class="table_entry" src="/files/students_icon/default.png">
+    <!-- <img class="table_entry" src="/files/students_icon/default.png"> -->
+    icon
   </td>
   <td>
     <div class='student_name'>Saba Parveen</div><br>
@@ -53,7 +54,7 @@ Master Students
 <table>
 <tr>
   <td>
-    <img class="table_entry" src="/files/students_icon/default.png">
+    icon
   </td>
   <td>
     <div class='student_name'>WU Peibin</div><br>
@@ -64,7 +65,7 @@ Master Students
 </tr>
 <tr>
   <td>
-    <img class="table_entry" src="/files/students_icon/default.png">
+    icon
   </td>
   <td>
     <div class='student_name'>CHEN Jiaxin</div><br>
@@ -75,7 +76,7 @@ Master Students
 </tr>
 <tr>
   <td>
-    <img class="table_entry" src="/files/students_icon/default.png">
+    icon
   </td>
   <td>
     <div class='student_name'>ZHU Tengfei</div><br>
@@ -86,7 +87,7 @@ Master Students
 </tr>
 <tr>
   <td>
-    <img class="table_entry" src="/files/students_icon/default.png">
+    icon
   </td>
   <td>
     <div class='student_name'>ZHENG Pingze</div><br>
@@ -97,7 +98,7 @@ Master Students
 </tr>
 <tr>
   <td>
-    <img class="table_entry" src="/files/students_icon/default.png">
+    icon
   </td>
   <td>
     <div class='student_name'>DUAN Min</div><br>
@@ -108,7 +109,7 @@ Master Students
 </tr>
 <tr>
   <td>
-    <img class="table_entry" src="/files/students_icon/default.png">
+    icon
   </td>
   <td>
     <div class='student_name'>CHEN Xiaolin</div><br>

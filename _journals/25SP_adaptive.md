@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "25SP_adaptive.png"
 teaser : 
-authors: J.-R. Yang, Z.-L. Shi, <b>X.-P. Li</b>, W. Xiong, Y. Fu, and X. Liang
+authors: J.-R. Yang, Z.-L. Shi, <b>X.-P. Li</b>*, W. Xiong, Y. Fu, and X. Liang
 bibtex: 
 uri: 2025_SP.pdf
 arxiv: 

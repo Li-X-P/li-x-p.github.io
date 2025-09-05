@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "25_TCI_robust.png"
 teaser : 
-authors:  <b>X.-P.Li</b>, Z.-L.Shi, M.Dai, H.C.So, G.Xue, Z.Zhao, and L.Yang
+authors:  <b>X.-P.Li</b>*, Z.-L.Shi, M.Dai, H.C.So, G.Xue, Z.Zhao, and L.Yang
 bibtex: 
 uri: 2025_TCI.pdf
 arxiv: 

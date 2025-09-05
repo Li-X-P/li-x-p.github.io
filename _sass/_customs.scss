@@ -135,3 +135,36 @@ div.news {
   border-radius: 10px;
   padding-left: 10px;
 }
+
+/* Student Information Styles */
+div.student_name {
+  font-weight: bold;
+  display: inline;
+  font-size: 1em;
+}
+
+div.student_chinese_name {
+  display: inline;
+  font-size: $type-size-c;
+  color: $dark-gray;
+  font-style: italic;
+}
+
+div.student_period {
+  display: inline;
+  font-size: $type-size-c;
+  color: $muted-text-color;
+}
+
+div.student_note {
+  display: inline;
+  font-size: $type-size-c;
+  color: $info-color;
+  font-style: italic;
+}
+
+div.student_research {
+  display: inline;
+  font-size: $type-size-c;
+  color: $dark-gray;
+}

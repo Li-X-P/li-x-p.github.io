@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "25IOT.png"
 teaser : 
-authors: W. Ma, P. Zhang, J. Ye, R. Guan, <b>X.-P. Li</b>, and L. Huang
+authors: W. Ma, P. Zhang, J. Ye, R. Guan, <b>X.-P. Li</b>*, and L. Huang
 bibtex: 
 uri: 2025_IOT.pdf
 arxiv: 

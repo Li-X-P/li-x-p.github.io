@@ -32,25 +32,24 @@ Alumni (whereabout)
 --------
 *  -->
 <style>
-  div {
+  div.student_name {
+    font-weight: bold;
     display: inline;
     font-size: 1em;
   }
-  div.student_name {
-    font-weight: bold;
-  }
-
   div.student_chinese_name {
     display: inline;
+    font-size: 1em;
   }
-
   div.student_period {
     display: inline;
+    font-size: 1em;
   }
 
   div.student_note {
-    display: inline;
     font-style: italic;
+    display: inline;
+    font-size: 1em;
   }
 </style>
 

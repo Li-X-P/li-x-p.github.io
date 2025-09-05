@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "25_bio.png"
 teaser : 
-authors: M. Dai, <b>X.-P. Li</b>*, Z. Zhao, and L. Yang
+authors: M. Dai, <b>X.-P. Li</b>, Z. Zhao, and L. Yang
 bibtex: 
 uri: 2025_bioengi.pdf
 arxiv: 

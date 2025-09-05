@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "ROCS.png"
 teaser : 
-authors: <b> X. P. Li</b>*, Z.-L. Shi, L. Huang, A. M.-C. So, and H. C. So
+authors: <b> X. P. Li</b>, Z.-L. Shi, L. Huang, A. M.-C. So, and H. C. So
 bibtex: 
 uri: ROCS.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "25PR_saen.png"
 teaser : 
-authors:  Z. Zhang, <b>X.-P. Li</b>*, and Q. Liu
+authors:  Z. Zhang, <b>X.-P. Li</b>, and Q. Liu
 bibtex: 
 uri: 2025_PR.pdf
 arxiv: 

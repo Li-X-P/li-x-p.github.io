@@ -10,7 +10,7 @@ redirect_from:
 <br />
 　　Students in our group major in Signal Processing, Machine Learning with applications in DOA Estimation, Image/Video Processing, Recommender System, Financial Market Prediction, etc.
 
-<!-- Ph.D. Students
+Ph.D. Students
 --------
 * Saba Parveen (Co-supervisor): Sep. 2023 -> ...
 
@@ -30,14 +30,14 @@ Undergraduate Students
 
 Alumni (whereabout)
 --------
-*  -->
-
+* 
+<!-- 
 Ph.D. Students
 --------
 <table>
 <tr>
   <td>
-    <!-- <img class="table_entry" src="/files/students_icon/default.png"> -->
+    <img class="table_entry" src="/files/students_icon/default.png">
     icon
   </td>
   <td>
@@ -127,4 +127,4 @@ Undergraduate Students
 
 Alumni
 --------
-*
+* -->

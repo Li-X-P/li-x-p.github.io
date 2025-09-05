@@ -1,25 +1,29 @@
 {% include base_path %}
 
-<td>
-  <img class="table_entry" src="{{ "/files/students_icon/default.png" | prepend: base_path }}">
-</td>
-<td>
-  <div class='student_name'>{{ include.name }}</div><br>
-  
-  {% if include.chinese_name %}
-    <div class='student_chinese_name'>{{ include.chinese_name }}</div><br>
-  {% endif %}
-  
-  <div class='student_period'>
-    {% if include.start_date %}{{ include.start_date }}{% endif %}
-    {% if include.end_date %} -> {{ include.end_date }}{% else %} -> ...{% endif %}
-  </div><br>
-  
-  {% if include.note %}
-    <div class='student_note'>({{ include.note }})</div><br>
-  {% endif %}
-  
-  {% if include.research_areas %}
-    <div class='student_research'>Research Areas: {{ include.research_areas }}</div><br>
-  {% endif %}
-</td>
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/Person">
+    <td>
+      <img class="table_entry" src="{{ "/files/students_icon/default.png" | prepend: base_path }}">
+    </td>
+    <td>
+      <div class='student_name'>{{ include.name }}</div><br>
+      
+      {% if include.chinese_name %}
+        <div class='student_chinese_name'>{{ include.chinese_name }}</div><br>
+      {% endif %}
+      
+      <div class='student_period'>
+        {% if include.start_date %}{{ include.start_date }}{% endif %}
+        {% if include.end_date %} -> {{ include.end_date }}{% else %} -> ...{% endif %}
+      </div><br>
+      
+      {% if include.note %}
+        <div class='student_note'>{{ include.note }}</div><br>
+      {% endif %}
+      
+      {% if include.research_areas %}
+        <div class='student_research'>Research Areas: {{ include.research_areas }}</div><br>
+      {% endif %}
+    </td>
+  </article>
+</div>

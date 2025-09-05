@@ -1,5 +1,5 @@
 ---
-title: “Joint antenna selection and beamforming design for active RIS-aided ISAC systems"
+title: "Joint antenna selection and beamforming design for active RIS-aided ISAC systems"
 collection: journals
 permalink: /publication/25IOT
 date: 2025-7-1

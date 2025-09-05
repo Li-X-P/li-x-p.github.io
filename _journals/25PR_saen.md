@@ -1,5 +1,5 @@
 ---
-title: “SAEN-BGS: Energy-efficient spiking autoencoder network for background subtraction"
+title: "SAEN-BGS: Energy-efficient spiking autoencoder network for background subtraction"
 collection: journals
 permalink: /publication/25PR_saen
 date: 2025-5-1

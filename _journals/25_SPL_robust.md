@@ -1,5 +1,5 @@
 ---
-title: “Robust electrical impedance tomography via half-quadratic optimization"
+title: "Robust electrical impedance tomography via half-quadratic optimization"
 collection: journals
 permalink: /publication/25_SPL_robust
 date: 2025-7-1

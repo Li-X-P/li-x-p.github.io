@@ -1,5 +1,5 @@
 ---
-title: “Robust single-bit direction-of-arrival estimation with magnitude recovery"
+title: "Robust single-bit direction-of-arrival estimation with magnitude recovery"
 collection: journals
 permalink: /publication/25_JSTSP_robust
 date: 2025-8-1

@@ -1,5 +1,5 @@
 ---
-title: “Projected gradient descent method for cardinality constrained portfolio optimization"
+title: "Projected gradient descent method for cardinality constrained portfolio optimization"
 collection: journals
 permalink: /publication/24JFI
 date: 2024-12-1

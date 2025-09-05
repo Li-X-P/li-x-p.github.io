@@ -1,5 +1,5 @@
 ---
-title: “Robust preprocessing of impulsive motion artifacts using low-rank matrix recovery for electrical impedance tomography"
+title: "Robust preprocessing of impulsive motion artifacts using low-rank matrix recovery for electrical impedance tomography"
 collection: journals
 permalink: /publication/25_TCI_robust
 date: 2025-7-1

@@ -1,5 +1,5 @@
 ---
-title: “Robust electrical impedance tomography for respiratory monitoring"
+title: "Robust electrical impedance tomography for respiratory monitoring"
 collection: journals
 permalink: /publication/25_TIM_robust
 date: 2025-7-1

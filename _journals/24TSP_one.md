@@ -1,5 +1,5 @@
 ---
-title: “One-bit target detection in colocated MIMO radar with colored background noise"
+title: "One-bit target detection in colocated MIMO radar with colored background noise"
 collection: journals
 permalink: /publication/24TSP_one
 date: 2024-12-1

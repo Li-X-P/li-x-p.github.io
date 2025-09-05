@@ -99,7 +99,6 @@ Alumni (whereabout)
     font-weight: bold;
     margin: 30px 0 15px 0;
     padding-bottom: 5px;
-    border-bottom: 2px solid #b8b8b8ff;
   }
   
   @media (max-width: 768px) {
@@ -187,7 +186,5 @@ Alumni (whereabout)
 </div>
 
 <div class="section-title">Undergraduate Students</div>
-*
 
 <div class="section-title">Alumni</div>
-*

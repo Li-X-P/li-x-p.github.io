@@ -10,9 +10,22 @@ redirect_from:
 <br />
 　　Students in our group major in Signal Processing, Machine Learning with applications in DOA Estimation, Image/Video Processing, Recommender System, Financial Market Prediction, etc.
 
-{% include base_path %}
+<!-- Ph.D. Students
+--------
+* Saba Parveen (Co-supervisor): Sep. 2023 -> ...
 
-### Ph.D. Students
+  
+Master Students
+--------
+* WU Peibin (吴培斌): Sep. 2024 -> ...
+* CHEN Jiaxin (陈嘉欣): Sep. 2024 -> ...
+* ZHU Tengfei (朱腾飞): Sep. 2024 -> ...
+* ZHENG Pingze (郑平泽): Sep. 2024 -> ...
+* DUAN Min (段敏): Sep. 2023 -> ...
+* CHEN Xiaolin (陈晓琳) (Co-supervisor): Sep. 2023 -> ... -->
+
+Ph.D. Students
+--------
 <table>
 <tr>
   <td>
@@ -27,7 +40,8 @@ redirect_from:
 </tr>
 </table>
 
-### Master Students
+Master Students
+--------
 <table>
 <tr>
   <td>
@@ -98,12 +112,14 @@ redirect_from:
 </tr>
 </table>
 
-### Undergraduate Students
+Undergraduate Students
+--------
 <table>
 <!-- Add undergraduate students here when available -->
 </table>
 
-### Alumni
+Alumni
+--------
 <table>
 <!-- Add alumni information here when available -->
 </table> 

@@ -2,7 +2,7 @@
 title: “One-bit target detection in colocated MIMO radar with colored background noise"
 collection: journals
 permalink: /publication/24TSP_one
-date: 2024-12
+date: 2024-12-1
 year: "2024"
 venue: "IEEE Transactions on Signal Processing,"
 city: 

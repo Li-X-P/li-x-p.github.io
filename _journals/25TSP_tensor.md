@@ -2,7 +2,7 @@
 title: “Tensor completion network for visual data"
 collection: journals
 permalink: /publication/25TSP_tensor
-date: 2025-1
+date: 2025-1-1
 year: "2025"
 venue: "IEEE Transactions on Signal Processing,"
 city: 

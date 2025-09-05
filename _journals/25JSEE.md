@@ -2,7 +2,7 @@
 title: “2D-DOA estimation for NLOS environments via intelligent reflecting surface"
 collection: journals
 permalink: /publication/25JSEE_2d
-date: 2025-8
+date: 2025-8-1
 year: "2025"
 venue: "Journal of Systems Engineering and Electronics,"
 city: 

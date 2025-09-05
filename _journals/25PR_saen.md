@@ -2,7 +2,7 @@
 title: “SAEN-BGS: Energy-efficient spiking autoencoder network for background subtraction"
 collection: journals
 permalink: /publication/25PR_saen
-date: 2025-05
+date: 2025-5-1
 year: "2025"
 venue: "Pattern Recognition,"
 city: 

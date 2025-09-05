@@ -2,7 +2,7 @@
 title: “Joint DOA estimation and distorted sensor detection"
 collection: journals
 permalink: /publication/25TAES_joint
-date: 2025-04
+date: 2025-4-1
 year: "2025"
 venue: "IEEE Transactions on Aerospace and Electronic Systems,"
 city: 

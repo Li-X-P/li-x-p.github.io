@@ -2,7 +2,7 @@
 title: “Projected gradient descent method for cardinality constrained portfolio optimization"
 collection: journals
 permalink: /publication/24JFI
-date: 2024-12
+date: 2024-12-1
 year: "2024"
 venue: "Journal of the Franklin Institute,"
 city: 

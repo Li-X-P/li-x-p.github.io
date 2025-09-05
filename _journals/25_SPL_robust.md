@@ -2,7 +2,7 @@
 title: “Robust electrical impedance tomography via half-quadratic optimization"
 collection: journals
 permalink: /publication/25_SPL_robust
-date: 2025-07
+date: 2025-7-1
 year: "2025"
 venue: "IEEE Signal Processing Letters,"
 city: 

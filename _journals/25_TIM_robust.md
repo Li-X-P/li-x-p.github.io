@@ -2,7 +2,7 @@
 title: “Robust electrical impedance tomography for respiratory monitoring"
 collection: journals
 permalink: /publication/25_TIM_robust
-date: 2025-07
+date: 2025-7-1
 year: "2025"
 venue: "IEEE Transactions on Instrumentation and Measurement,"
 city: 

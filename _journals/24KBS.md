@@ -2,7 +2,7 @@
 title: "POCKET: Pruning random convolution kernels for time series classification from a feature selection perspective"
 collection: journals
 permalink: /publication/24KBS
-date: 2024-9
+date: 2024-9-1
 year: "2024"
 venue: "Knowledge-Based Systems,"
 city: 

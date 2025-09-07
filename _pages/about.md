@@ -114,13 +114,17 @@ Awards and Honors
 ----------
 <body>
 <ul class="awards-list">
-  <li class="award-item"><div class="details">深圳大学电子与信息工程学院“优秀班导师”</div><div class="date">2023 - 2024</div></li>
+  <li class="award-item"><div class="details">射频异质异构集成全国重点实验室“年度代表性成果奖”</div><div class="date">2025</div></li>
+  <li class="award-item"><div class="details">深圳大学“优秀班主任”</div><div class="date">2024 - 2025</div></li>
+  <li class="award-item"><div class="details">深圳大学电子与信息工程学院“优秀班主任”</div><div class="date">2024 - 2025</div></li>
+  <li class="award-item"><div class="details">深圳大学电子与信息工程学院“优秀班主任”</div><div class="date">2023 - 2024</div></li>
   <li class="award-item"><div class="details">深圳市“鹏城孔雀计划”C类人才</div><div class="date">2023</div></li>
   <li class="award-item"><div class="details">Research Tuition Scholarship, City University of Hong Kong</div><div class="date">2022 - 2023</div></li>
   <li class="award-item"><div class="details">Outstanding Academic Performance Award, City University of Hong Kong</div><div class="date">2021 - 2022</div></li>
   <li class="award-item"><div class="details">Research Tuition Scholarship, City University of Hong Kong</div><div class="date">2021 - 2022</div></li>
   <li class="award-item"><div class="details">Outstanding Academic Performance Award, City University of Hong Kong</div><div class="date">2020 - 2021</div></li>
   <li class="award-item"><div class="details">Research Tuition Scholarship, City University of Hong Kong</div><div class="date">2020 - 2021</div></li>
+  <li class="award-item"><div class="details">Attendee for Global Young Scientist Summit (GYSS 2023), <b>two out of EE Department</b></div><div class="date">Jul. 2022</div></li>
   <li class="award-item"><div class="details">Ph.D. Research Scholarship, City University of Hong Kong</div><div class="date">2019 - 2023</div></li>
   <li class="award-item"><div class="details">Graduate with Distinction, City University of Hong Kong</div><div class="date">2018</div></li>
   <li class="award-item"><div class="details">Outstanding Undergraduate, Yanshan University</div><div class="date">2015</div></li>

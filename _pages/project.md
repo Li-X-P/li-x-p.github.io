@@ -43,7 +43,14 @@ Projects
   
 Patents
 ----------
-* 李晓鹏, 黄磊, 陈明阳, 李强, “双稀疏优化阵列天线的卫星信号稳健捕获方法及相关设备,” 中国发明专利, ZL202310966127.8.
+* 李晓鹏,郑平泽,黄磊,廖桂生,龙天尧,李军,谢俊好,余继周, “一种单比特图像恢复方法、装置、终端及介质,” ZL2025108472009
+*  Lei Huang, Tianyao Long, Mingyang Chen, Qiang Li, Wei Wang, and Xiaopeng Li, “Method and device for constructing redundancy-removed coprime radar array based on one-bit quantization,” US12,333,219B1
+* 李晓鹏，朱腾飞，黄磊，廖桂生，李强，肖宇航，赵博，龙天尧，李军，谢俊好，余继周, “具备信号幅值恢复的单比特到达方向估计方法、系统、终端及存储介质,” ZL202510317041.1
+* Lei Huang, Mingyang Chen, Qiang Li, Xiaopeng Li, Lifang Feng, Peiwen Wu, “Method, system, and intelligent terminal for one-bit quantization direction of arrival estimation,” US 12,044,786B1
+* 李晓鹏, 段敏，黄磊, “一种智能反射面辅助的波达方向估计方法及系统,”202410577209.X
+* 李晓鹏, 陈嘉欣, “基于稀疏恢复的电阻抗断层成像方法、装置、终端及介质,” ZL 2024 1 1816368.5
+* 施章磊，李晓鹏，“基于低秩矩阵恢复的电阻抗断层数据处理方法和装置，”202410800537.X
+* 李晓鹏, 黄磊, 陈明阳, 李强, “双稀疏优化阵列天线的卫星信号稳健捕获方法及相关设备,” 中国发明专利, ZL202310966127.8
 * 李晓鹏，黄磊，“基于单比特量化天线阵列的到达角估计方法及相关设备”，中国发明专利, ZL202310672449.1
 * 黄磊， 陈明阳，李强，李晓鹏，冯力方，吴沛文，“单比特量化 DoA 估计方法、系统和智能终端,” 中国发明专利, ZL202311317494.1
 * X. P. Li, C-S Leung and H. C. So，“Method and analysis device for tracking market index and unmixing hyperspectral image using modified iterative hard thresholding for nonnegative sparse recovery under sum-to-one,” US Patent, US 2023/0230116 A1

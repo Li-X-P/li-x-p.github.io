@@ -11,7 +11,7 @@ thumbnail: "RSPFED.png"
 teaser : 
 authors: X. Y. Wang, <b> X. P. Li</b>*, and H. C. So
 bibtex: 
-uri: RSPFED.pdf
+uri: 2024_SP_robust.pdf
 arxiv: 
 project: 
 source: 

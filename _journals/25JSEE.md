@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "25JSEE_2d.png"
 teaser : 
-authors: X. Y. Wang, <b>X.-P. Li</b>∗, H. C. So, and Nikolaos D. Sidiropoulos
+authors: M. Duan, <b>X.-P. Li</b>∗, M. Hua, L. Huang, and Q. Li
 bibtex: 
 uri: 2025_JSEE_2d.pdf
 arxiv: 

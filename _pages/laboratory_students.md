@@ -122,7 +122,7 @@ Alumni (whereabout)
     <div class="student-info">
       <div class="student-name">DUAN Min</div>
       <div class="student-chinese-name">段敏</div>
-      <div class="student-period">Sep. 2023 -> ...</div>
+      <div class="student-period">Sep. 2025 -> ...</div>
     </div>
   </div>
   <div class="student-card">
@@ -211,3 +211,4 @@ Alumni (whereabout)
 <div class="section-title">Undergraduate Students</div>
 
 <div class="section-title">Alumni</div>
+* DUAN Min (段敏): Master (Sep. 2023 -> Aug. 2025), A Ph.D. student in our group.

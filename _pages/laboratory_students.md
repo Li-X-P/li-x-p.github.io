@@ -209,6 +209,7 @@ Alumni (whereabout)
 </div>
 
 <div class="section-title">Undergraduate Students</div>
+* XIE Longwen; 
 
 <div class="section-title">Alumni</div>
-* DUAN Min (段敏): Master (Sep. 2023 -> Aug. 2025), A Ph.D. student in our group.
+* DUAN Min (段敏): Master (Sep. 2023 -> Aug. 2025); A Ph.D. student in our group.

@@ -138,7 +138,7 @@ Alumni (whereabout)
 <div class="section-title">Master Students</div>
 <div class="students-container">
   <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/fh.jpg" alt="FU Huan">
+    <img class="student-avatar" src="/files/students_icon/fh.png" alt="FU Huan">
     <div class="student-info">
       <div class="student-name">FU Huan</div>
       <div class="student-chinese-name">傅欢</div>
@@ -162,7 +162,7 @@ Alumni (whereabout)
     </div>
   </div>
   <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/wpb.jpg" alt="WU Peibin">
+    <img class="student-avatar" src="/files/students_icon/wpb.png" alt="WU Peibin">
     <div class="student-info">
       <div class="student-name">WU Peibin</div>
       <div class="student-chinese-name">吴培斌</div>
@@ -189,7 +189,7 @@ Alumni (whereabout)
   </div>
   
   <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/zpz.jpg" alt="ZHENG Pingze">
+    <img class="student-avatar" src="/files/students_icon/zpz.png" alt="ZHENG Pingze">
     <div class="student-info">
       <div class="student-name">ZHENG Pingze</div>
       <div class="student-chinese-name">郑平泽</div>

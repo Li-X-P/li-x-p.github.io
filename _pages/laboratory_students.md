@@ -118,6 +118,14 @@ Alumni (whereabout)
 <div class="section-title">Ph.D. Students</div>
 <div class="students-container">
   <div class="student-card">
+    <img class="student-avatar" src="/files/students_icon/dm.jpg" alt="DUAN Min">
+    <div class="student-info">
+      <div class="student-name">DUAN Min</div>
+      <div class="student-chinese-name">段敏</div>
+      <div class="student-period">Sep. 2023 -> ...</div>
+    </div>
+  </div>
+  <div class="student-card">
     <img class="student-avatar" src="/files/students_icon/default.png" alt="Saba Parveen">
     <div class="student-info">
       <div class="student-name">Saba Parveen</div>
@@ -130,7 +138,31 @@ Alumni (whereabout)
 <div class="section-title">Master Students</div>
 <div class="students-container">
   <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/default.png" alt="WU Peibin">
+    <img class="student-avatar" src="/files/students_icon/fh.png" alt="FU Huan">
+    <div class="student-info">
+      <div class="student-name">FU Huan</div>
+      <div class="student-chinese-name">傅欢</div>
+      <div class="student-period">Sep. 2025 -> ...</div>
+    </div>
+  </div>
+  <div class="student-card">
+    <img class="student-avatar" src="/files/students_icon/wgh.png" alt="WANG Guanhua">
+    <div class="student-info">
+      <div class="student-name">WANG Guanhua</div>
+      <div class="student-chinese-name">王冠华</div>
+      <div class="student-period">Sep. 2025 -> ...</div>
+    </div>
+  </div>
+  <div class="student-card">
+    <img class="student-avatar" src="/files/students_icon/cyr.png" alt="CHEN Yarou">
+    <div class="student-info">
+      <div class="student-name">CHEN Yarou</div>
+      <div class="student-chinese-name">陈雅柔</div>
+      <div class="student-period">Sep. 2025 -> ...</div>
+    </div>
+  </div>
+  <div class="student-card">
+    <img class="student-avatar" src="/files/students_icon/wpb.png" alt="WU Peibin">
     <div class="student-info">
       <div class="student-name">WU Peibin</div>
       <div class="student-chinese-name">吴培斌</div>
@@ -139,7 +171,7 @@ Alumni (whereabout)
   </div>
   
   <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/default.png" alt="CHEN Jiaxin">
+    <img class="student-avatar" src="/files/students_icon/cjx.png" alt="CHEN Jiaxin">
     <div class="student-info">
       <div class="student-name">CHEN Jiaxin</div>
       <div class="student-chinese-name">陈嘉欣</div>
@@ -157,23 +189,14 @@ Alumni (whereabout)
   </div>
   
   <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/default.png" alt="ZHENG Pingze">
+    <img class="student-avatar" src="/files/students_icon/zpz.png" alt="ZHENG Pingze">
     <div class="student-info">
       <div class="student-name">ZHENG Pingze</div>
       <div class="student-chinese-name">郑平泽</div>
       <div class="student-period">Sep. 2024 -> ...</div>
     </div>
   </div>
-  
-  <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/default.png" alt="DUAN Min">
-    <div class="student-info">
-      <div class="student-name">DUAN Min</div>
-      <div class="student-chinese-name">段敏</div>
-      <div class="student-period">Sep. 2023 -> ...</div>
-    </div>
-  </div>
-  
+
   <div class="student-card">
     <img class="student-avatar" src="/files/students_icon/default.png" alt="CHEN Xiaolin">
     <div class="student-info">
@@ -186,5 +209,7 @@ Alumni (whereabout)
 </div>
 
 <div class="section-title">Undergraduate Students</div>
+* XIE Longwen; 
 
 <div class="section-title">Alumni</div>
+* DUAN Min (段敏): Master (Sep. 2023 -> Aug. 2025); A Ph.D. student in our group.

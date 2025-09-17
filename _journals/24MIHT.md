@@ -11,7 +11,7 @@ thumbnail: "MIHT.png"
 teaser : 
 authors: <b> X. P. Li</b>*, C-S, Leung, and H. C. So
 bibtex: 
-uri: MIHT.pdf
+uri: 2024_IS_sparse.pdf
 arxiv: 
 project: 
 source: 

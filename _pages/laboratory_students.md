@@ -138,14 +138,6 @@ Alumni (whereabout)
 <div class="section-title">Master Students</div>
 <div class="students-container">
   <div class="student-card">
-    <img class="student-avatar" src="/files/students_icon/fh.png" alt="FU Huan">
-    <div class="student-info">
-      <div class="student-name">FU Huan</div>
-      <div class="student-chinese-name">傅欢</div>
-      <div class="student-period">Sep. 2025 -> ...</div>
-    </div>
-  </div>
-  <div class="student-card">
     <img class="student-avatar" src="/files/students_icon/wgh.png" alt="WANG Guanhua">
     <div class="student-info">
       <div class="student-name">WANG Guanhua</div>

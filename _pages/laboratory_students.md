@@ -205,3 +205,4 @@ Alumni (whereabout)
 
 <div class="section-title">Alumni</div>
 * DUAN Min (段敏): Master (Sep. 2023 -> Aug. 2025); A Ph.D. student in our group.
+* WANG Xiangyu : Research Fellow (Sep. 2024 -> Oct. 2025); HUAWEI, HONG KONG.

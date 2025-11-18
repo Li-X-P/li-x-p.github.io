@@ -19,5 +19,5 @@ Sem. A 2025/26, Sem. A 2024/25
 
 <a class="button pdf" href="https://li-x-p.github.io/files/Course/foundationofOptimization/Chapter_3.pdf" rel="permalink">Chapter 3</a>
 
-<!--<a class="button pdf" href="https://li-x-p.github.io/files/Course/foundationofOptimization/Chapter_4.pdf" rel="permalink">Chapter 4</a>-->
+<a class="button pdf" href="https://li-x-p.github.io/files/Course/foundationofOptimization/Chapter_4.pdf" rel="permalink">Chapter 4</a>
 

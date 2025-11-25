@@ -88,7 +88,7 @@ redirect_from:
   
 <body>
 <p class="indent">
-X. P. Li received the B.Eng. degree in electronic science and technology from Yanshan University, Qinhuangdao, China, in 2015, and the M.Sc. degree (with Distinction) in electronic information engineering and the Ph.D. degree in electrical engineering from the City University of Hong Kong, Hong Kong, SAR, China, in 2018 and 2022, respectively.  From 2018 to 2019, he was a Research Assistant with the Department of Information Engineering, Shenzhen University, Shenzhen, China, and a Postdoctoral Fellow with the Department of Electrical Engineering, City University of Hong Kong from 2022 to 2023. He is currently a Research Associate Professor with the College of Electronics and Information Engineering, Shenzhen University.
+X. P. Li (<a class="button pdf" href="https://li-x-p.github.io/files/CV/XPLi_CV_AE.pdf" rel="permalink">CV</a>) received the B.Eng. degree in electronic science and technology from Yanshan University, Qinhuangdao, China, in 2015, and the M.Sc. degree (with Distinction) in electronic information engineering and the Ph.D. degree in electrical engineering from the City University of Hong Kong, Hong Kong, SAR, China, in 2018 and 2022, respectively.  From 2018 to 2019, he was a Research Assistant with the Department of Information Engineering, Shenzhen University, Shenzhen, China, and a Postdoctoral Fellow with the Department of Electrical Engineering, City University of Hong Kong from 2022 to 2023. He is currently a Research Associate Professor with the College of Electronics and Information Engineering, Shenzhen University.
 </p>
 
 <p class="indent">

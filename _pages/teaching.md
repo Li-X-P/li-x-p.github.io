@@ -58,6 +58,12 @@ author_profile: true
   <ul class="timeline">
     <li class="entry">
       <div class="details">
+        2025 第八届全国大学生嵌入式芯片与系统设计大赛，国二<br>
+        负责人：谢龙文、胡泽群、李仪；指导老师：钟世达、李晓鹏
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
         2024 APMCM亚太地区大学生数学建模竞赛，一等<br>
         负责人：Feng Lin, Fangzhou Zhao, John He；指导老师：Xiao-Peng Li
       </div>

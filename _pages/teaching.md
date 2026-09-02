@@ -51,11 +51,59 @@ author_profile: true
 
 {% include base_path %}
 
-
 <!-- 第二部分：时间线展示 -->
+
 <section class="teaching-timeline">
    <h2>比赛指导</h2>
   <ul class="timeline">
+    <li class="entry">
+      <div class="details">
+        第十三届大学生新一代信息通信科技大赛，国二<br>
+        负责人：郑平泽、朱腾飞；指导老师：李晓鹏、李强
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        第十三届大学生新一代信息通信科技大赛，省二<br>
+        负责人：王冠华、陈雅柔；指导老师：李晓鹏、李强
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        第十三届大学生新一代信息通信科技大赛，省三<br>
+        负责人：陈嘉欣、吴培斌；指导老师：李晓鹏、李强
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        第二十一届中国研究生电子设计竞赛，国一<br>
+        负责人：王思琪、王品鉴、褚宏亚；指导老师：李强、李晓鹏
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        第二十一届中国研究生电子设计竞赛，国二<br>
+        负责人：王思琪、王品鉴、褚宏亚；指导老师：李强、李晓鹏
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        Mathematical Contest In Modeling，Honorable Mention<br>
+        负责人：Longwen Xie、Feng Lin、Xiangming Chen；指导老师：Xiao-Peng Li
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        2026第二十八届中国机器人及人工智能大赛，省三<br>
+        负责人：陈嘉欣、五培斌、郑平泽；指导老师：李晓鹏、李强
+      </div>
+    </li>
+    <li class="entry">
+      <div class="details">
+        2025 第七届全球校园人工智能算法精英大赛，国一<br>
+        负责人：王思琪、李刚祐、陈翼强；指导老师：李强、李晓鹏
+      </div>
+    </li>
     <li class="entry">
       <div class="details">
         2025 第八届全国大学生嵌入式芯片与系统设计大赛，国二<br>
@@ -94,6 +142,7 @@ author_profile: true
     </li>
   </ul>
 </section>
+
 
 <hr>
 

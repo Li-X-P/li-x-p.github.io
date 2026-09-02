@@ -58,37 +58,37 @@ author_profile: true
   <ul class="timeline">
     <li class="entry">
       <div class="details">
-        第十三届大学生新一代信息通信科技大赛，国二<br>
+        2026第十三届大学生新一代信息通信科技大赛，国二<br>
         负责人：郑平泽、朱腾飞；指导老师：李晓鹏、李强
       </div>
     </li>
     <li class="entry">
       <div class="details">
-        第十三届大学生新一代信息通信科技大赛，省二<br>
+        2026第十三届大学生新一代信息通信科技大赛，省二<br>
         负责人：王冠华、陈雅柔；指导老师：李晓鹏、李强
       </div>
     </li>
     <li class="entry">
       <div class="details">
-        第十三届大学生新一代信息通信科技大赛，省三<br>
+        2026第十三届大学生新一代信息通信科技大赛，省三<br>
         负责人：陈嘉欣、吴培斌；指导老师：李晓鹏、李强
       </div>
     </li>
     <li class="entry">
       <div class="details">
-        第二十一届中国研究生电子设计竞赛，国一<br>
+        2026第二十一届中国研究生电子设计竞赛，国一<br>
         负责人：王思琪、王品鉴、褚宏亚；指导老师：李强、李晓鹏
       </div>
     </li>
     <li class="entry">
       <div class="details">
-        第二十一届中国研究生电子设计竞赛，国二<br>
+        2026第二十一届中国研究生电子设计竞赛，国二<br>
         负责人：王思琪、王品鉴、褚宏亚；指导老师：李强、李晓鹏
       </div>
     </li>
     <li class="entry">
       <div class="details">
-        Mathematical Contest In Modeling，Honorable Mention<br>
+        2026 Mathematical Contest In Modeling，Honorable Mention<br>
         负责人：Longwen Xie、Feng Lin、Xiangming Chen；指导老师：Xiao-Peng Li
       </div>
     </li>
@@ -142,6 +142,7 @@ author_profile: true
     </li>
   </ul>
 </section>
+
 
 
 <hr>
